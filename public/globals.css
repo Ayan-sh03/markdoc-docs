@@ -46,7 +46,7 @@ a:hover {
 table {
   padding-left: 1rem;
   padding-right: 1rem;
-
+  margin-top: 2rem;
   text-align: center;
   /* border-collapse: collapse; */
   border-radius: 5px;
@@ -55,14 +55,15 @@ table {
 
 thead {
   width: 360% !important;
-  /* background-color: green; */
-  /* text-align: center; */
   display: flex;
   justify-content: center;
-  /* margin-bottom: 1px; */
 }
 
-tr td {
-  /* margin-bottom: 0.7rem; */
-  /* background-color: green; */
+.jsx-c7b7711367a73074 {
+  background-color: black !important;
+  color: white !important;
+}
+
+.token {
+  background: none !important;
 }

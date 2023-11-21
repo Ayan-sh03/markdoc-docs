@@ -12,7 +12,7 @@ User can Register an Account using Their Email Address , Secure Password, First 
 
 Body :
 
-```json
+```js
 {
   "email": "john@example.com",
   "first_name": "John",
@@ -26,7 +26,7 @@ Body :
 
 Body :
 
-```json
+```javascript
 {
   "email": "john@example.com",
   "first_name": "John",
@@ -39,7 +39,7 @@ Body :
 
 Error Body :
 
-```
+```js
 {
   "error":"Error Message"
 }
