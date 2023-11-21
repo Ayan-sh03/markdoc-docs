@@ -9,6 +9,10 @@ Name: Ayan
 
 The API is organized around [REST](https://en.wikipedia.org/wiki/REST). Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, authentication, and verbs.
 
+```
+base URL : https://localhost:8080
+```
+
 <!-- ---
 title: Get started with Markdoc
 description: How to get started with Markdoc

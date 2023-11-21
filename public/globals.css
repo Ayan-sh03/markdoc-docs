@@ -42,3 +42,27 @@ table {
 a:hover {
   color: white;
 }
+
+table {
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  text-align: center;
+  /* border-collapse: collapse; */
+  border-radius: 5px;
+  height: 200px;
+}
+
+thead {
+  width: 360% !important;
+  /* background-color: green; */
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  /* margin-bottom: 1px; */
+}
+
+tr td {
+  /* margin-bottom: 0.7rem; */
+  /* background-color: green; */
+}

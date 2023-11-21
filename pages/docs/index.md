@@ -10,6 +10,8 @@ User can Register an Account using Their Email Address , Secure Password, First 
 
 ## Request
 
+Body :
+
 ```json
 {
   "email": "john@example.com",
@@ -22,6 +24,8 @@ User can Register an Account using Their Email Address , Secure Password, First 
 
 ## Response
 
+Body :
+
 ```json
 {
   "email": "john@example.com",
@@ -31,4 +35,35 @@ User can Register an Account using Their Email Address , Secure Password, First 
 }
 ```
 
-## Erros
+## Errors
+
+Error Body :
+
+```
+{
+  "error":"Error Message"
+}
+```
+
+{% table %}
+
+- HTTP Error Summary
+
+---
+
+- 400
+- Bad Request - Invalid JSON Data , Invalid Email
+
+---
+
+- 409
+- Conflict - User Already Exists
+
+---
+
+- 500
+- Internal Server Error - Something went wrong with the server
+
+---
+
+{% /table %}
