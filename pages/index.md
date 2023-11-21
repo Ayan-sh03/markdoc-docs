@@ -1,4 +1,15 @@
 ---
+title: Docs
+Name: Ayan
+---
+
+# {% $markdoc.frontmatter.title %}
+
+## This is the documentation for The Registration API
+
+The API is organized around [REST](https://en.wikipedia.org/wiki/REST). Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, authentication, and verbs.
+
+<!-- ---
 title: Get started with Markdoc
 description: How to get started with Markdoc
 ---
@@ -41,4 +52,4 @@ The quickest way to deploy your own version of this boilerplate is by deploying 
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markdoc/next.js-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markdoc/next.js-starter) -->

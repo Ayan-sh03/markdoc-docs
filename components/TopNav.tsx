@@ -1,7 +1,7 @@
-import React from 'react';
-import Link from 'next/link';
+import React from "react";
+import Link from "next/link";
 
-export function TopNav({children}) {
+export function TopNav({ children }) {
   return (
     <nav>
       <Link href="/" className="flex">
@@ -18,9 +18,11 @@ export function TopNav({children}) {
             display: flex;
             align-items: center;
             justify-content: space-between;
+
             gap: 1rem;
             padding: 1rem 2rem;
-            background: white;
+            color: white;
+            background: transparent;
             border-bottom: 1px solid var(--border-color);
           }
           nav :global(a) {
