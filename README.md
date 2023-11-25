@@ -2,7 +2,10 @@
 
 This is a documentation website using Markdoc and Next.js.
 
-<video width= "2032" alt="demo" src="/Project004.mp4" >
+<video width="2032" poster="/path/to/poster-image.jpg" controls>
+  <source src="/Project004.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 ## Setup
 
 First, clone this repo and install the dependencies required:
