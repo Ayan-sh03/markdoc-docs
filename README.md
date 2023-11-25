@@ -1,9 +1,8 @@
 # Full Next.js example
 
-This is a full-featured boilerplate for a creating a documentation website using Markdoc and Next.js.
+This is a documentation website using Markdoc and Next.js.
 
-<img width="2032" alt="image" src="https://user-images.githubusercontent.com/62121649/174916143-16f18270-0463-402c-8b48-33c627ea7a7e.png">
-
+<video width= "2032" alt="demo" src="/Project004.mp4" >
 ## Setup
 
 First, clone this repo and install the dependencies required:
@@ -28,7 +27,7 @@ You can start editing the page by modifying `index.md`. The page auto-updates as
 
 ## Deploy
 
-The quickest way to deploy your own version of this boilerplate is by deploying it with [Vercel](https://vercel.com) or [Netlify](https://www.netlify.com/) by clicking one of the buttons below.
+<!-- The quickest way to deploy your own version of this boilerplate is by deploying it with [Vercel](https://vercel.com) or [Netlify](https://www.netlify.com/) by clicking one of the buttons below. -->
 
 ### Deploy with Vercel
 
