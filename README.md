@@ -2,7 +2,7 @@
 
 This is a documentation website using Markdoc and Next.js.
 
-<video width="2032" poster="/path/to/poster-image.jpg" controls>
+<video width="2032" poster="" controls>
   <source src="/Project004.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
