@@ -6,6 +6,7 @@ This is a documentation website using Markdoc and Next.js.
   <source src="/Project004.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
+
 ## Setup
 
 First, clone this repo and install the dependencies required:
