@@ -2,10 +2,13 @@
 
 This is a documentation website using Markdoc and Next.js.
 
-<video width="2032" poster="/path/to/poster-image.jpg" controls>
-  <source src="/Project004.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+
+
+
+https://github.com/Ayan-sh03/markdoc-docs/assets/114312039/6b5368ca-3fdc-4b5b-9f2b-9a4a0a44c792
+
+
+
 
 ## Setup
 
